@@ -1,0 +1,6 @@
+keras==2.3.1
+scikit-learn
+pillow
+pandas
+tqdm
+numba
